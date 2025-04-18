@@ -53,11 +53,20 @@
 - `GET /jobs/search?keyword=value` - Search jobs by keyword
 
 ## 📸 Screenshots
-Add your screenshots here using markdown:
-```
-![Job List](path_to_screenshot)
-![Job Search](path_to_screenshot)
-```
+## 📸 Screenshots
+
+### 🏠 Home Page – All Jobs
+![Home Page](assets/ss1.png)
+
+### ✏️ Edit Job Post
+![Edit Job](assets/ss2.png)
+
+### ➕ Create / Add New Job
+![Add Job](assets/ss3.png)
+
+### 🛢️ PostgreSQL Setup
+![PostgreSQL](assets/ss4.png)
+
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repo, make changes, and open a pull request.
