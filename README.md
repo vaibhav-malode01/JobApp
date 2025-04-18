@@ -56,16 +56,16 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page – All Jobs
-![Home Page](assets/ss1.png)
+![Home Page](jobApp/assets/ss1.png)
 
 ### ✏️ Edit Job Post
-![Edit Job](assets/ss2.png)
+![Edit Job](jobApp/assets/ss2.png)
 
 ### ➕ Create / Add New Job
-![Add Job](assets/ss3.png)
+![Add Job](jobApp/assets/ss3.png)
 
 ### 🛢️ PostgreSQL Setup
-![PostgreSQL](assets/ss4.png)
+![PostgreSQL](jobApp/assets/ss4.png)
 
 
 ## 🤝 Contributing
