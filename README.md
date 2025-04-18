@@ -52,21 +52,6 @@
 - `DELETE /jobs/{id}` - Delete a job by ID
 - `GET /jobs/search?keyword=value` - Search jobs by keyword
 
-## 📸 Screenshots
-## 📸 Screenshots
-
-### 🏠 Home Page – All Jobs
-![Home Page](jobApp/assets/ss1.png)
-
-### ✏️ Edit Job Post
-![Edit Job](jobApp/assets/ss2.png)
-
-### ➕ Create / Add New Job
-![Add Job](jobApp/assets/ss3.png)
-
-### 🛢️ PostgreSQL Setup
-![PostgreSQL](jobApp/assets/ss4.png)
-
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repo, make changes, and open a pull request.
